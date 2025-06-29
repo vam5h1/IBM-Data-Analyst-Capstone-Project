@@ -1,6 +1,7 @@
 # 📊 IBM Data Analyst Capstone Project
 
-This repository showcases the **Capstone Project** from the [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst), where real-world datasets and professional tools are used to derive insights, visualize trends, and present meaningful findings.
+[![LinkedIn - Vamshi Krishna Reddy Pasula](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vam5h1/)
+[![Credly Badges](https://img.shields.io/badge/Credly-Certifications-orange?logo=credly&style=flat-square)](https://www.credly.com/users/vamshi-krishna-reddy-pasula/badges#credly)
 
 ---
 
@@ -53,7 +54,7 @@ Built using **IBM Cognos Analytics**, this dashboard includes three key tabs:
 - 🔹 **Demographics**
 
 Each section includes a variety of charts visualizing insights from the Stack Overflow Developer Survey.  
-📌 *(Upload your dashboard screenshots here once available)*
+
 
 ---
 
@@ -75,7 +76,7 @@ The final deliverable includes a professional PDF presentation that summarizes:
 **Vamshi Krishna Reddy Pasula**  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vam5h1/)  
-🎖️ [View Certifications on Credly](https://www.credly.com/users/vamshi-krishna-reddy-pasula/badges#credly)
+🎖️ [Credly Certifications](https://www.credly.com/users/vamshi-krishna-reddy-pasula/badges#credly)
 
 ---
 
