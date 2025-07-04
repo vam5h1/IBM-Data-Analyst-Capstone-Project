@@ -53,8 +53,16 @@ Built using **IBM Cognos Analytics**, this dashboard includes three key tabs:
 - 🔹 **Future Technology Trends**  
 - 🔹 **Demographics**
 
-Each section includes a variety of charts visualizing insights from the Stack Overflow Developer Survey.  
+Each section includes a variety of charts visualizing insights from the Stack Overflow Developer Survey.
 
+### 🔍 Current Technology Usage
+![Current Technology Usage](./Current%20Technology%20Usage.png)
+
+### 🔮 Future Technology Trends
+![Future Technology Trends](./Future%20Technology%20Trends.png)
+
+### 👥 Demographics
+![Demographics](./Demographics.png)
 
 ---
 
